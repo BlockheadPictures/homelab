@@ -1,5 +1,3 @@
-Here's how to format that for GitHub with proper markdown:
-
 # SMB Share Access from Unprivileged LXC Container to Host
 
 ### Mount Command
